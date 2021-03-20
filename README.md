@@ -27,7 +27,6 @@ you will first have to install the dependencies:
     pip3 install SpeechRecognition pydub
     pip3 install gtts
     pip3 install jq
-    pip3 install recode
     pip install googletrans==3.1.0a0
     sudo pacman -S python3-pyaudio
     sudo pacman -S python3-gtts
@@ -49,11 +48,10 @@ Install the dependcies:
     pip3 install SpeechRecognition pydub
     pip3 install gtts
     pip3 install jq
-    pip3 install recode
     pip install googletrans==3.1.0a0
     sudo apt install python3-pyaudio -y
     sudo apt install python3-gtts -y
-    sudo apt install python3-recode -y
+    sudo apt install recode -y
     sudo apt install golang-go -y
     sudo apt install playerctl -y
 ```

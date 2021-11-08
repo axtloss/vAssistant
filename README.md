@@ -28,9 +28,9 @@ you will first have to install the dependencies:
     pip3 install gtts
     pip3 install jq
     pip install googletrans==3.1.0a0
-    sudo pacman -S python3-pyaudio
-    sudo pacman -S python3-gtts
-    sudo pacman -S python3-recode
+    sudo pacman -S python-pyaudio
+    sudo pacman -S python-gtts
+    sudo pacman -S python-recode
     sudo pacman -S golang-go
     sudo pacman -S playerctl
 ```
